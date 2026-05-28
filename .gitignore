@@ -8,7 +8,6 @@ build/
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
 
 # Conda
 .env
@@ -31,6 +30,7 @@ models/*.pth
 models/*.pt
 models/*.h5
 models/*.safetensors
+models/*.pkl
 !models/README.md
 
 # OS
