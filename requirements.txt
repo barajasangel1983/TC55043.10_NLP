@@ -15,8 +15,9 @@ nltk>=3.9
 spacy>=3.7
 
 # NLP — deep learning
-torch>=2.2.2,<2.3
+torch>=2.4
 transformers>=4.41
+sentence-transformers>=3.0
 datasets>=2.19
 tokenizers>=0.19
 sentencepiece>=0.2
