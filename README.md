@@ -36,6 +36,13 @@ TC55043.10_NLP/
 | Clase 4 | `MNA_NLP_semana_04_ejercicios_complementarios.ipynb` | Week 4 exercises |
 | Clase 4 | `MNA_NLP_Embeddings_Word2Vec_Glove_FastText-clase.ipynb` | Word2Vec, GloVe & FastText |
 | Clase 4 | `MNA_NLP_semanas_4y5_Actividad_Embeddings_2026_HF.ipynb` | Embeddings activity with HuggingFace (weeks 4–5) |
+| Clase 4 | `MNA_NLP_HuggingFace_y_Embeddings.ipynb` | HuggingFace & embeddings |
+
+## Activity PDFs
+
+| Class | File | Description |
+|-------|------|-------------|
+| Clase 4 | `MNA_NLP_semanas_4y5_Actividad_Embebidos_2026_HF (1).pdf` | Embeddings activity instructions (weeks 4–5) |
 
 ## Datasets
 
