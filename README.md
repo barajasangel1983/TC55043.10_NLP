@@ -34,6 +34,8 @@ TC55043.10_NLP/
 | Clase 3 | `MNA_NLP_semana_03_Parte_1_ejercicios_complementarios.ipynb` | Week 3 exercises (Part 1) |
 | Clase 3 | `MNA_NLP_semana_03_Parte_2_ejercicios_complementarios.ipynb` | Week 3 exercises (Part 2) |
 | Clase 4 | `MNA_NLP_semana_04_ejercicios_complementarios.ipynb` | Week 4 exercises |
+| Clase 4 | `MNA_NLP_Embeddings_Word2Vec_Glove_FastText-clase.ipynb` | Word2Vec, GloVe & FastText |
+| Clase 4 | `MNA_NLP_semanas_4y5_Actividad_Embeddings_2026_HF.ipynb` | Embeddings activity with HuggingFace (weeks 4–5) |
 
 ## Datasets
 
@@ -44,6 +46,9 @@ TC55043.10_NLP/
 | Clase 3 | `imdb_labelled.txt` | 1000 IMDB sentences with positive/negative labels |
 | Clase 3 | `amazon_cells_labelled.txt` | 1000 Amazon product reviews with labels |
 | Clase 3 | `yelp_labelled.txt` | 1000 Yelp restaurant reviews with labels |
+| Clase 4 | `imdb_labelled.txt` | 1000 IMDB sentences with positive/negative labels |
+| Clase 4 | `amazon_cells_labelled.txt` | 1000 Amazon product reviews with labels |
+| Clase 4 | `yelp_labelled.txt` | 1000 Yelp restaurant reviews with labels |
 
 > Clase 3 labelled datasets from Kotzias et al., *"From Group to Individual Labels using Deep Features"*, KDD 2015.
 
